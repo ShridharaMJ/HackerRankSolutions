@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-16T17:45:55 IST" name="Default suite" finished-at="2021-11-16T17:45:55 IST" duration-ms="119">
+  <suite started-at="2021-11-16T19:20:15 IST" name="Default suite" finished-at="2021-11-16T19:20:15 IST" duration-ms="208">
     <groups>
     </groups>
-    <test started-at="2021-11-16T17:45:55 IST" name="Default test" finished-at="2021-11-16T17:45:55 IST" duration-ms="119">
-      <class name="com.practice.arrays.NewYearChos">
-        <test-method signature="testcase1()[pri:0, instance:com.practice.arrays.NewYearChos@56a6d5a6]" started-at="2021-11-16T17:45:55 IST" name="testcase1" finished-at="2021-11-16T17:45:55 IST" duration-ms="15" status="PASS">
+    <test started-at="2021-11-16T19:20:15 IST" name="Default test" finished-at="2021-11-16T19:20:15 IST" duration-ms="208">
+      <class name="com.practice.arrays.MinNumberOfSwap">
+        <test-method signature="testcase1()[pri:0, instance:com.practice.arrays.MinNumberOfSwap@56a6d5a6]" started-at="2021-11-16T19:20:15 IST" name="testcase1" finished-at="2021-11-16T19:20:15 IST" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-      </class> <!-- com.practice.arrays.NewYearChos -->
+      </class> <!-- com.practice.arrays.MinNumberOfSwap -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
