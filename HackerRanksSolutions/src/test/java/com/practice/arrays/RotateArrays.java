@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
 
+import javax.swing.event.ListSelectionEvent;
+
 import org.testng.annotations.Test;
 
 public class RotateArrays {
@@ -13,16 +15,14 @@ public class RotateArrays {
 	public void testcase1() {
 
 		List<Integer> asList = Arrays.asList(1, 2, 3, 4, 5);
+
 		int numberOfRotate = 9;
-		
 
 		Integer[] array = asList.toArray(new Integer[asList.size()]);
 		int arrayLength = array.length;
-		if(numberOfRotate>arrayLength)
-			numberOfRotate=numberOfRotate%arrayLength;
-		
-		
-		
+		if (numberOfRotate > arrayLength)
+			numberOfRotate = numberOfRotate % arrayLength;
+
 		for (int i = 0; i < numberOfRotate; i++) {
 
 			// Integer[] tempArray = new Integer[array.length];

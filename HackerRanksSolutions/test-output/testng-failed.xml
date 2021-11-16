@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.practice.arrays.RotateArrays">
+      <class name="com.practice.arrays.NewYearChos">
         <methods>
           <include name="testcase1"/>
         </methods>
-      </class> <!-- com.practice.arrays.RotateArrays -->
+      </class> <!-- com.practice.arrays.NewYearChos -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
