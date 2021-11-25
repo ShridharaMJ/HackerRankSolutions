@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.practice.arrays.ArrayManupulation">
+      <class name="com.practice.strings.ChildLength">
         <methods>
           <include name="testcase1"/>
         </methods>
-      </class> <!-- com.practice.arrays.ArrayManupulation -->
+      </class> <!-- com.practice.strings.ChildLength -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
