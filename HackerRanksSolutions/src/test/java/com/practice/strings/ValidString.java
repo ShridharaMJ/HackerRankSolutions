@@ -46,5 +46,7 @@ public class ValidString {
 
 		System.out.println(flag?"YES":"No");
 		
+		//System.out.printf
+		
 	}
 }
