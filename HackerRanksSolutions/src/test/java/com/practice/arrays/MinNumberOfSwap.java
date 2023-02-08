@@ -7,7 +7,7 @@ public class MinNumberOfSwap {
 	@Test
 	public void testcase1() {
 
-		int[] a = {1 ,3 ,5, 2, 4, 6, 7};
+		int[] a = {4, 3, 2, 1};
 		int length = a.length;
 		int swap = 0;
 		int i = 0;
